@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b16a2ad2-fbd0-4ae2-9907-d8f56124c971" name="Changes" comment="fixes" />
+    <list default="true" id="b16a2ad2-fbd0-4ae2-9907-d8f56124c971" name="Changes" comment="fixes">
+      <change afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Temp/Notary",
+    "last_opened_file_path": "C:/Users/Buharov/Documents/Web/Нотариальная контора/notaryweb",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -38,6 +40,7 @@
       <updated>1674676081589</updated>
       <workItem from="1674676087275" duration="461000" />
       <workItem from="1676284529301" duration="37000" />
+      <workItem from="1676285036142" duration="274000" />
     </task>
     <task id="LOCAL-00001" summary="readme added">
       <created>1674676369759</created>
@@ -53,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674676482633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixes">
+      <created>1676285239874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676285239874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
