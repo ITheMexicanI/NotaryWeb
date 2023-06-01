@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b16a2ad2-fbd0-4ae2-9907-d8f56124c971" name="Changes" comment="fixes">
-      <change afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-    </list>
+    <list default="true" id="b16a2ad2-fbd0-4ae2-9907-d8f56124c971" name="Changes" comment="pre-deploy settings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +19,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Buharov/Documents/Web/Нотариальная контора/notaryweb",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Buharov/Documents/Web/Нотариальная контора/notaryweb&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +39,7 @@
       <workItem from="1674676087275" duration="461000" />
       <workItem from="1676284529301" duration="37000" />
       <workItem from="1676285036142" duration="274000" />
+      <workItem from="1676305966667" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="readme added">
       <created>1674676369759</created>
@@ -63,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676285239874</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pre-deploy settings">
+      <created>1676306033112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676306033112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme added" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="pre-deploy settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="pre-deploy settings" />
   </component>
 </project>
